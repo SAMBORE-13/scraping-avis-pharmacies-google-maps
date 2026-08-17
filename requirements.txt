@@ -1,0 +1,18 @@
+# Manipulation et analyse des données
+pandas
+geopandas
+
+# Traitement des géométries
+shapely
+
+# Requêtes HTTP
+requests
+
+# Visualisation
+matplotlib
+
+# Automatisation du navigateur et scraping
+playwright
+
+# Gestion de la boucle asynchrone dans Jupyter/Colab
+nest-asyncio
